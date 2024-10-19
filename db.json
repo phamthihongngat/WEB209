@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "New Product 1",
+      "price": 111111,
+      "available": true,
+      "description": "abcd",
+      "category": "cate1",
+      "imageUrl": "https://res.cloudinary.com/dxhgeg7vi/image/upload/v1728836731/fo6mhlunjqvnpwkhr19x.png",
+      "id": 16
+    },
+    {
+      "name": "New Product 2",
+      "price": 1111,
+      "available": true,
+      "description": "abcd",
+      "category": "cate1",
+      "imageUrl": "https://res.cloudinary.com/dxhgeg7vi/image/upload/v1728913413/bssu0eo9r6rqcj1cnt3i.jpg",
+      "id": 17
+    }
+  ]
+}

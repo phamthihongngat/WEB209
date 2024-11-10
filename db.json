@@ -1,22 +1,32 @@
 {
   "products": [
     {
-      "name": "New Product 1",
-      "price": 111111,
+      "name": "New Product 2 ",
+      "imageUrl": "https://picsum.photos/100/100",
+      "price": 9999,
       "available": true,
-      "description": "abcd",
-      "category": "cate1",
-      "imageUrl": "https://res.cloudinary.com/dxhgeg7vi/image/upload/v1728836731/fo6mhlunjqvnpwkhr19x.png",
-      "id": 16
+      "category": "cate2",
+      "description": "New product 2 Update",
+      "id": 17
     },
     {
-      "name": "New Product 2",
-      "price": 1111,
+      "name": "San pham moi",
+      "imageUrl": "https://picsum.photos/100/100",
+      "price": 900,
+      "available": false,
+      "category": "cate2",
+      "description": "San pham moi",
+      "id": 18
+    },
+    {
+      "name": "Sản Phẩm Mới",
+      "imageUrl": "https://picsum.photos/100/100",
+      "price": 900,
       "available": true,
-      "description": "abcd",
-      "category": "cate1",
-      "imageUrl": "https://res.cloudinary.com/dxhgeg7vi/image/upload/v1728913413/bssu0eo9r6rqcj1cnt3i.jpg",
-      "id": 17
+      "category": "cate2",
+      "description": "Sản phẩm mới",
+      "id": 19
     }
-  ]
+  ],
+  "users": []
 }
